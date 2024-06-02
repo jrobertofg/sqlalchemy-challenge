@@ -151,5 +151,3 @@ def start_end_date(start, end):
     finally:
         session.close()
 
-if __name__ == '__main__':
-    app.run(debug=True)
